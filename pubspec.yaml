@@ -60,8 +60,8 @@ flutter:
   fonts:
     - family: OpenSnas
       fonts:
-        - asset: assets/fonts/OpenSnas-Regular.ttf
-        - asset: assets/fonts/OpenSnas-Bold.ttf
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
           weight: 700
     - family: Quicksand
       fonts:
